@@ -15,3 +15,14 @@ Rutgers GRID, RU Makerspace, and CMSCE
 
 # What works works
   * Test the RC Car
+
+
+# TODO:
+
+Items:
+ * 4 AA batteries or LiPo replacement
+ * SD Card
+ * Buttons/Switches 
+ * Sports cones for track
+ 
+ 
