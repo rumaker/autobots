@@ -24,5 +24,16 @@ Items:
  * SD Card
  * Buttons/Switches 
  * Sports cones for track
+ * LiPo battery for the controller
  
- 
+ ## LiPo Upgrade for the Controler
+  
+ ## Lipo UPgrade for the car
+  * Convert car to xt60 connectors
+  
+  ## Car body 
+   * 2 short servo cables for STR_IN, THR_IN
+   * 2 short servo cables for STR_OUT, and THR_OUT
+   
+   
+
