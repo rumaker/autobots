@@ -26,14 +26,30 @@ Items:
  * Sports cones for track
  * LiPo battery for the controller
  
- ## LiPo Upgrade for the Controler
+ 
+## LiPo Upgrade for the Controler
   
- ## Lipo UPgrade for the car
+ 
+## Lipo UPgrade for the car
   * Convert car to xt60 connectors
+  * 
   
-  ## Car body 
+## Car body 
    * 2 short servo cables for STR_IN, THR_IN
    * 2 short servo cables for STR_OUT, and THR_OUT
    
+   
+## Logic Side
+    * 2 18650 battery adapter
+    * 5v switching regulator
+
+## Button System
+
+The buttons would go on the back of the car.
+
+
+    
+ ## ePaper info panel
+ 
    
 
