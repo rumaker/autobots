@@ -1,4 +1,4 @@
-# Autbots Workshop
+# Autobots Workshop
 
 Instructors:
 Rick Anderson (rick.anderson@rutgers.edu)
@@ -14,7 +14,7 @@ Rutgers GRID, RU Makerspace, and CMSCE
 +++
 
 # What works works
-  * Test the RC Car
+  * Assemgle and Test the RC Car
 
 
 # TODO:
