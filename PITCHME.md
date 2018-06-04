@@ -2,19 +2,41 @@
 
 Instructors:
 Rick Anderson (rick.anderson@rutgers.edu)
-Jenny Shane
-Adam Tannir
+Jenny Shane (Fubar Labs)
+Adam Tannir (Fubar Labs)
 
 Brought to you by:
-Rutgers GRID, RU Makerspace, and CMSCE
+Rutgers GRID, RU Makerspace, CMSCE, Fubar Labs
 
 ---
 # What got you here?
 
 +++
 
+# What is an Autonomous Car
+
++++
+
+# Anatomy of a Car
+
++++
+
+# Seeing
+# Steering 
+# Throttle
+
++++
+
+What's a Race Track?
+
++++
+
+Why Race?
+
++++
+
 # What works works
-  * Assemgle and Test the RC Car
+  * Assemble and Test the RC Car
 
 
 # TODO:
@@ -27,10 +49,10 @@ Items:
  * LiPo battery for the controller
  
  
-## LiPo Upgrade for the Controler
+## LiPo Upgrade for the Controller
   
  
-## Lipo UPgrade for the car
+## Lipo Upgrade for the car
   * Convert car to xt60 connectors
   * 
   
